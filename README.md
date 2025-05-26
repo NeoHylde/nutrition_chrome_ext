@@ -53,7 +53,6 @@ The **Nutrition Ingredient Checker** is a Chrome extension designed to scan web 
 
 - Support for ingredient input by users.
 - More detailed risk analysis and alternative recommendations.
-- Multi-language support for ingredient detection.
 
 ## License
 
