@@ -1,16 +1,19 @@
 {
   "manifest_version": 3,
-  "name": "Nutrition Risk Checker",
+  "name": "Check My List",
   "version": "1.0",
   "description": "Checks web pages for toxic ingredients from Proposition 65 list.",
   "permissions": ["scripting", "activeTab"],
   "host_permissions": ["<all_urls>"],
   "action": {
-    "default_popup": "popup.html"
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/icon16.png"
+    }
   },
   "web_accessible_resources": [
     {
-      "resources": ["data.json"],
+      "resources": ["data/data.json"],
       "matches": ["<all_urls>"]
     }
   ]

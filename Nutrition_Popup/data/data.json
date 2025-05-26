@@ -1563,17 +1563,6 @@
   },
   {
     "STATE OF CALIFORNIA": "Cadmium",
-    "": "developmental, male",
-    "__1": "SQE",
-    "__2": "---",
-    "__3": "1-May-97",
-    "__4": "4.1 (oral)",
-    "__5": "",
-    "__6": "",
-    "__7": ""
-  },
-  {
-    "STATE OF CALIFORNIA": "Cadmium and cadmium compounds",
     "": "cancer",
     "__1": "SQE",
     "__2": "---",
@@ -1584,18 +1573,7 @@
     "__7": ""
   },
   {
-    "STATE OF CALIFORNIA": "Cadmium",
-    "": "",
-    "__1": "",
-    "__2": "",
-    "__3": "",
-    "__4": "0.05 (inhalation)",
-    "__5": "",
-    "__6": "",
-    "__7": ""
-  },
-  {
-    "STATE OF CALIFORNIA": "Cannabis (marijuana) smoke",
+    "STATE OF CALIFORNIA": "Cannabis",
     "": "developmental",
     "__1": "SQE",
     "__2": "---",
@@ -1661,7 +1639,7 @@
     "__7": ""
   },
   {
-    "STATE OF CALIFORNIA": "Carbaryl [Basis for listing changed effective December 27, 2013]",
+    "STATE OF CALIFORNIA": "Carbaryl",
     "": "developmental, female, male",
     "__1": "AB",
     "__2": "63-25-2",
@@ -1694,7 +1672,7 @@
     "__7": ""
   },
   {
-    "STATE OF CALIFORNIA": "Carbon-black extracts",
+    "STATE OF CALIFORNIA": "Carbon-black",
     "": "cancer",
     "__1": "AB",
     "__2": "---",
@@ -1848,17 +1826,6 @@
     "__7": ""
   },
   {
-    "STATE OF CALIFORNIA": "Chloramphenicol Delisted January 4, 2013 [Click here for the basis for delisting]",
-    "": "cancer",
-    "__1": "LC",
-    "__2": "56-75-7",
-    "__3": "1-Oct-89",
-    "__4": "",
-    "__5": "",
-    "__6": "",
-    "__7": ""
-  },
-  {
     "STATE OF CALIFORNIA": "Chloramphenicol sodium succinate",
     "": "cancer",
     "__1": "FR",
@@ -1892,7 +1859,7 @@
     "__7": ""
   },
   {
-    "STATE OF CALIFORNIA": "Chlordecone (Kepone)",
+    "STATE OF CALIFORNIA": "Chlordecone",
     "": "cancer",
     "__1": "SQE",
     "__2": "143-50-0",
@@ -1903,7 +1870,7 @@
     "__7": ""
   },
   {
-    "STATE OF CALIFORNIA": "Chlordecone (Kepone)",
+    "STATE OF CALIFORNIA": "Chlordecone)",
     "": "developmental",
     "__1": "SQE",
     "__2": "143-50-0",
@@ -1958,7 +1925,7 @@
     "__7": ""
   },
   {
-    "STATE OF CALIFORNIA": "Chlorinated paraffins (Average chain length, C12;approximately 60 percent chlorine by weight)",
+    "STATE OF CALIFORNIA": "Chlorinated paraffins",
     "": "cancer",
     "__1": "SQE",
     "__2": "108171-26-2",
@@ -1986,17 +1953,6 @@
     "__2": "20265-96-7",
     "__3": "15-May-98",
     "__4": 1.9,
-    "__5": "",
-    "__6": "",
-    "__7": ""
-  },
-  {
-    "STATE OF CALIFORNIA": "Chlorodibromomethane  Delisted October 29, 1999 [Click here for the basis for delisting]",
-    "": "cancer",
-    "__1": "AB",
-    "__2": "124-48-1",
-    "__3": "1-Jan-90",
-    "__4": "",
     "__5": "",
     "__6": "",
     "__7": ""
@@ -2051,18 +2007,7 @@
     "__1": "SQE",
     "__2": "67-66-3",
     "__3": "1-Oct-87",
-    "__4": "20 (oral)\n40 (inhalation)",
-    "__5": "",
-    "__6": "",
-    "__7": ""
-  },
-  {
-    "STATE OF CALIFORNIA": "Chloroform [Basis for listing changed effective December 23, 2016]",
-    "": "developmental",
-    "__1": "SQE",
-    "__2": "67-66-3",
-    "__3": "7-Aug-09",
-    "__4": "",
+    "__4": "20 (oral) 40 (inhalation)",
     "__5": "",
     "__6": "",
     "__7": ""
@@ -6017,34 +5962,12 @@
     "__7": ""
   },
   {
-    "STATE OF CALIFORNIA": "Lead [Basis for listing changed effective November 22, 2013]",
-    "": "developmental, female, male",
-    "__1": "FR",
-    "__2": "---",
-    "__3": "27-Feb-87",
-    "__4": 0.5,
-    "__5": "",
-    "__6": "",
-    "__7": ""
-  },
-  {
-    "STATE OF CALIFORNIA": "Lead and lead compounds",
+    "STATE OF CALIFORNIA": "Lead",
     "": "cancer",
     "__1": "AB",
     "__2": "---",
     "__3": "1-Oct-92",
     "__4": "",
-    "__5": "",
-    "__6": "",
-    "__7": ""
-  },
-  {
-    "STATE OF CALIFORNIA": "Lead",
-    "": "",
-    "__1": "",
-    "__2": "",
-    "__3": "",
-    "__4": "15 (oral)",
     "__5": "",
     "__6": "",
     "__7": ""
